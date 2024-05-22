@@ -9,8 +9,8 @@ gsap.defaults({
 
 
 
-const READ_T1 = {soccer:3.5, golf:1.1, hockey:2.2}
-const READ_T2 = {soccer:3, golf:2.5, hockey:2.8}
+const READ_T1 = {soccer:2.5, golf:1.1, hockey:2.2}
+const READ_T2 = {soccer:2, golf:2.5, hockey:2.8}
 
 
 const {w, h} = bannerSize
